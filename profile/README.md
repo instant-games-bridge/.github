@@ -4,7 +4,7 @@ One SDK for cross-platform publishing HTML5 games.
 Supported platforms:
 + [VK.COM](https://vk.com)
 + [Yandex Games](https://yandex.com/games/)
-+ [TG.GAMES](https://tg.games/)
++ [Crazy Games](https://crazygames.com)
 + Customization to your needs
 + Other (Work In Progress)
 
