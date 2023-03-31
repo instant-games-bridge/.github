@@ -3,20 +3,19 @@ One SDK for cross-platform publishing HTML5 games.
 
 Supported platforms:
 + [VK.COM](https://vk.com)
-+ [Yandex Games](https://yandex.com/games/)
++ [Yandex Games](https://yandex.com/games)
 + [Crazy Games](https://crazygames.com)
-+ Customization to your needs
-+ Other (Work In Progress)
++ [Absolute Games](https://ag.ru)
 
 Plugins for game engines:
-+ [JS Core](https://github.com/instant-games-bridge/instant-games-bridge)
-+ [Construct 3](https://github.com/instant-games-bridge/instant-games-bridge-construct)
-+ [Unity](https://github.com/instant-games-bridge/instant-games-bridge-unity)
-+ [Defold](https://github.com/instant-games-bridge/instant-games-bridge-defold)
-+ [Godot](https://github.com/instant-games-bridge/instant-games-bridge-godot)
++ [JS](https://github.com/mewtongames/instant-games-bridge)
++ [Construct 3](https://github.com/mewtongames/instant-games-bridge-construct)
++ [Unity](https://github.com/mewtongames/instant-games-bridge-unity)
++ [Defold](https://github.com/mewtongames/instant-games-bridge-defold)
++ [Godot](https://github.com/mewtongames/instant-games-bridge-godot)
 
-Roadmap: https://trello.com/b/NjF29vTW.
+Documentation: https://mewton.gitbook.io/instant-games-bridge [RU]
 
-Join community: https://t.me/instant_games_bridge.
+Roadmap: https://trello.com/b/NjF29vTW
 
-Support: [Patreon](https://www.patreon.com/mewton), [Boosty](https://boosty.to/mewton).
+Join community: https://t.me/instant_games_bridge
