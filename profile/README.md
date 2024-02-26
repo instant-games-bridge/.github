@@ -7,6 +7,7 @@ Supported platforms:
 + [Crazy Games](https://crazygames.com)
 + [Absolute Games](https://ag.ru)
 + [Game Distribution](https://gamedistribution.com)
++ [VK Play](https://vkplay.ru/)
 
 Plugins for game engines:
 + [JS](https://github.com/mewtongames/instant-games-bridge)
