@@ -1,26 +1,30 @@
 # Instant Games Bridge
 One SDK for cross-platform publishing HTML5 games.
 
-Supported platforms:
+> **Made with ❤️ by [Playgama](https://developer.playgama.com)**\
+> Playgama is a global game distributor that handles all matters related to game placement, moderation, and money transfers from any country.
+
+## Supported platforms
 + [Playgama](https://playgama.com)
++ [Game Distribution](https://gamedistribution.com)
++ [Crazy Games](https://crazygames.com)
++ [Yandex Games](https://yandex.com/games)
++ [VK Play](https://vkplay.ru/)
 + [VK](https://vk.com)
 + [OK](https://ok.ru)
-+ [Yandex Games](https://yandex.com/games)
-+ [Crazy Games](https://crazygames.com)
 + [Absolute Games](https://ag.ru)
-+ [Game Distribution](https://gamedistribution.com)
-+ [VK Play](https://vkplay.ru/)
 + Other [Work In Progress]
 
-Plugins for game engines:
-+ [JS](https://github.com/mewtongames/instant-games-bridge)
-+ [Construct 3](https://github.com/mewtongames/instant-games-bridge-construct)
-+ [Unity](https://github.com/mewtongames/instant-games-bridge-unity)
-+ [Defold](https://github.com/mewtongames/instant-games-bridge-defold)
-+ [Godot](https://github.com/mewtongames/instant-games-bridge-godot)
+## Plugins for game engines
++ [JS](https://github.com/instant-games-bridge/instant-games-bridge)
++ [Construct 3](https://github.com/instant-games-bridge/instant-games-bridge-construct)
++ [Unity](https://github.com/instant-games-bridge/instant-games-bridge-unity)
++ [Godot](https://github.com/instant-games-bridge/instant-games-bridge-godot)
++ [Defold](https://github.com/instant-games-bridge/instant-games-bridge-defold)
 
-Documentation: https://getbridge.org
-
-Roadmap: https://trello.com/b/NjF29vTW
-
-Join community: https://t.me/instant_games_bridge
+## Useful links
++ [Documentation](https://developer.playgama.com/sdk) [ENG]
++ [Documentation](https://getbridge.org) [Other]
++ [Roadmap](https://trello.com/b/NjF29vTW)
++ [Discord](https://discord.gg/pzqd2upxr8)
++ [Game Publishing](https://developer.playgama.com/)
