@@ -10,7 +10,7 @@ One SDK for cross-platform publishing HTML5 games.
 + [Crazy Games](https://crazygames.com)
 + [Yandex Games](https://yandex.com/games)
 + [Wortal](https://wortal.ai)
-+ [PlayDeck](https://tonplay.io)
++ [PlayDeck](https://playdeck.io)
 + [VK Play](https://vkplay.ru/)
 + [VK](https://vk.com)
 + [OK](https://ok.ru)
