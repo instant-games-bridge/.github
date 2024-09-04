@@ -26,7 +26,7 @@ One SDK for cross-platform publishing HTML5 games.
 + [Defold](https://github.com/instant-games-bridge/instant-games-bridge-defold)
 
 ## Useful links
-+ [Documentation](https://developer.playgama.com/sdk) [ENG]
++ [Documentation](https://wiki.playgama.com/) [ENG]
 + [Documentation](https://getbridge.org) [Other]
 + [Roadmap](https://trello.com/b/NjF29vTW)
 + [Discord](https://discord.gg/pzqd2upxr8)
